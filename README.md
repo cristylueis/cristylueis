@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new tech stuffs
 - 🌱 I’m currently learning C#,Angular,.Net-Webapis
 - 💞️ I’m looking to collaborate on Full Stack Development
-- 📫 How to reach me =>
+- 📫 How to reach me => christylueis.vth@gmail.com
 
 <!---
 cristylueis/cristylueis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
